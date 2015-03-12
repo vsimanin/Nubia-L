@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Smart Bar</string>
+    <string name="msg_up">Above app is running</string>
+    <string name="msg_down">Below app is running</string>
+    <string name="toast_msg">The last activity, skip back in multi-window mode</string>
+    <string name="multiwindow_deny_msg">New started APP does not support multi-window</string>
+    <string name="camera_using_msg">The app does not support split-screen</string>
+    <string name="home_double_msg">Click home again to return launcher</string>
+    <string name="drop_fail_msg">Drop is failed</string>
+    <string name="force_close">OK</string>
+    <string name="process_violation_title">Notification</string>
+    <string name="process_violation_long_desc">The application %1$s has been running in other screen</string>
+    <string name="process_violation_desc">The application %1$s has been running</string>
+    <string name="activity_violation_title">Notification</string>
+    <string name="activity_violation_desc">The application %1$s has been running</string>
+    <string name="activity_violation_toast_desc">Application %1$s is not paused. Please try later.</string>
+    <string name="swipe_hint">Start Multi-Screen after up</string>
+</resources>

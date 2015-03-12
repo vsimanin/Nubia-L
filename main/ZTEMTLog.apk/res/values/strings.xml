@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, LogRedirector!</string>
+    <string name="app_name">LogRedirector</string>
+    <string name="redirect">Log Redirect</string>
+    <string name="redirect_on">log redirect on</string>
+    <string name="redirect_off">log redirect off</string>
+    <string name="format">log format</string>
+    <string name="buffertype">log type</string>
+    <string name="logpath">log path</string>
+    <string name="dellogs">delete log files</string>
+    <string name="cleanbuffer">clean log buffer</string>
+    <string name="connectservicefail">"can't connect log service"</string>
+    <string name="copylogfiles">Move log to sdcard</string>
+    <string name="startLogging">Start Logging</string>
+    <string name="stopLogging">Stop Logging</string>
+    <string name="cleanLogFile">Clean LogFile</string>
+</resources>

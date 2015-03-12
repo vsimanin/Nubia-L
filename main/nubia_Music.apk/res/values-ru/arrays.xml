@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="content_str_array">
+        <item>Закрыть</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
+        <item>60 минут</item>
+        <item>90 минут</item>
+    </string-array>
+    <string-array name="download_quality_array">
+        <item>Супер качество</item>
+        <item>Стандартное качество</item>
+    </string-array>
+    <string-array name="artist_category">
+        <item>华语男歌手</item>
+        <item>华语女歌手</item>
+        <item>华语组合</item>
+        <item>欧美男歌手</item>
+        <item>欧美女歌手</item>
+        <item>欧美组合</item>
+        <item>日韩男歌手</item>
+        <item>日韩女歌手</item>
+        <item>日韩组合</item>
+        <item>其他歌手</item>
+    </string-array>
+    <string-array name="playlist_operation">
+        <item>Открыть</item>
+        <item>Вопроизвести</item>
+        <item>Удалить</item>
+        <item>Переименовать</item>
+    </string-array>
+    <string-array name="playlist_song_operation">
+        <item>Удалить из плейлиста</item>
+    </string-array>
+    <string-array name="song_operation">
+        <item>Добавить к</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="folder_operation">
+        <item>Открыть</item>
+        <item>Воспроизвести</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="artist_typeitem_arrays">
+        <item>内地男歌手</item>
+        <item>内地女歌手</item>
+        <item>内地组合</item>
+        <item>欧美男歌手</item>
+        <item>欧美女歌手</item>
+        <item>欧美组合</item>
+        <item>港台男歌手</item>
+        <item>港台女歌手</item>
+        <item>港台组合</item>
+        <item>日韩男歌手</item>
+        <item>日韩女歌手</item>
+        <item>日韩组合</item>
+    </string-array>
+    <string-array name="top_type_list">
+        <item>新歌榜</item>
+        <item>热歌榜</item>
+        <item>民谣榜</item>
+        <item>Billboard榜</item>
+        <item>影视金曲榜</item>
+        <item>叱诧歌曲榜</item>
+        <item>HITO中文榜</item>
+        <item>爵士榜</item>
+        <item>KTV热歌榜</item>
+        <item>摇滚榜</item>
+        <item>飙升中文榜</item>
+        <item>飙升欧美榜</item>
+    </string-array>
+</resources>

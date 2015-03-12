@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZAccountService</string>
+    <string name="nubia_account_title">nubia account</string>
+    <string name="activity_account_intro_register_btn">Create a new account</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="activity_account_intro_login_btn">Login</string>
+    <string name="account_intro_title">nubia account manager</string>
+    <string name="authenticator_label">nubia account</string>
+    <string name="account">Account</string>
+    <string name="account_note_title">After freely creating a nubia account, you can:</string>
+    <string name="account_note_message">"Your private cloud space
+Backup and restore information
+Locate devices remotely
+Enjoy all kinds of service with one single account"</string>
+    <string name="account_login_welcome_txt">Welcome to register nubia account</string>
+    <string name="account_login_welcome_txt2">You can register with the methods below:</string>
+    <string name="section_login_by_email_title">Email</string>
+    <string name="section_login_by_mobile_title">Mobile</string>
+    <string name="section_login_by_thirdrdparty_title">Third Party</string>
+    <string name="login_by_qq_image_description">Login by QQ</string>
+    <string name="login_by_weibo_image_description">Login by Weibo</string>
+    <string name="section_login_by_qq"><a href="#">Login by QQ</a></string>
+    <string name="section_login_by_weibo"><a href="#">Login by Weibo</a></string>
+    <string name="section_register_authenticating">Authenticating…</string>
+    <string name="section_register_registerfail">network or server error</string>
+    <string name="section_register_by_email_title">Email</string>
+    <string name="section_register_by_mobile_title">Mobile</string>
+    <string name="section_register_by_email_username">Username:</string>
+    <string name="section_register_by_email_email">E-Mail:</string>
+    <string name="section_register_by_email_password">Password:</string>
+    <string name="section_register_by_email_register_button">Register Now</string>
+    <string name="section_register_by_email_register_note">Please input the correct email address, so you can find your lost password conveniently</string>
+    <string name="section_register_by_email_username_error">Username requires characters between 4 and 15</string>
+    <string name="section_register_by_email_email_error">Please input a correct email address</string>
+    <string name="section_register_by_email_password_error">Password requires characters between 6 and 32</string>
+    <string name="section_register_by_email_confirm_password_error">Confirm password error,requires characters between 6 and 32</string>
+    <string name="section_register_by_email_confirm_password_not_equal_error">Two passwords are not equal</string>
+    <string name="section_register_by_email_safe_answer_error">Safe question answer should not be null</string>
+    <string name="section_register_by_email_safe_answer_prompt">Choose a safe question</string>
+    <string name="register_username_hint">Username(4 to 15 characters)</string>
+    <string name="register_email_hint">E-mail address</string>
+    <string name="register_password_hint">Password(6 to 32 characters)</string>
+    <string name="register_confirm_password_hint">Confirm password</string>
+    <string name="register_mobile_hint">Mobile number</string>
+    <string name="register_answer_hint">Safe question answer</string>
+    <string name="register_finish_text">Register success!</string>
+    <string name="register_finish_button">Register finish</string>
+    <string name="register_finish_tip">Active code has been sent to your mailbox</string>
+    <string name="section_register_by_moible_number">Mobile:</string>
+    <string name="section_register_acquire_security_code">Acquiring active code…</string>
+    <string name="section_register_fill_security_code_title">Fill in the active code</string>
+    <string name="section_register_fill_password_title">Fill in the account password</string>
+    <string name="section_register_by_mobile_number_error">Please input the correct mobile number</string>
+    <string name="section_register_by_mobile_acquire_error">Acquire active code failed, please try again</string>
+    <string name="register_number_title">The registered mobile is:</string>
+    <string name="security_code_note">A message has been sent to the mobile，please fill in the active code with the number in the message.</string>
+    <string name="security_code_title">Active code:</string>
+    <string name="acquire_again">Acquire again</string>
+    <string name="section_register_by_mobile_next_button">Next</string>
+    <string name="section_register_by_mobile_active_cod_confirm_error">Active code error</string>
+    <string name="active_has_already_resend_title">Active code</string>
+    <string name="active_has_already_resend_message">Active code has been sent again, please take care to receive</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_continue">Continue</string>
+    <string name="section_register_by_mobile_reacquire_active_code">Reacquiring active code…</string>
+    <string name="section_register_by_mobile_password_title">Password:</string>
+    <string name="section_register_by_mobile_confirm_password_title">Confirm:</string>
+    <string name="section_register_by_mobile_password_not_same">Two passwords are not equal</string>
+    <string name="section_register_by_mobile_password_error">Password requires characters between 6 and 32</string>
+    <string name="nubia_account_exist">nubia account has already logged in. If continue, the current account would be logged out.</string>
+    <string name="section_login_authenticating">Connecting server…</string>
+    <string name="section_login_loginfail_text_both">The username or password is invalid, please try again.</string>
+    <string name="section_login_loginfail_text_pwonly">The password is invalid, please try again.</string>
+    <string name="section_login_by_email_button">Login</string>
+    <string name="section_login_username">E-Mail / Username / Mobile</string>
+    <string name="section_login_password">Input your password</string>
+    <string name="section_login_by_email_create_new_account"><a href="#">Create a new account</a></string>
+    <string name="section_login_by_email_forget_password"><a href="#">Forget your password?</a></string>
+    <string name="section_login_by_email_username_error">Please input a correct username</string>
+    <string name="section_login_by_email_email_error">Please input a correct email</string>
+    <string name="section_login_by_email_password_error">Sorry,your password is not right!</string>
+    <string name="section_login_connecting_server">Authenticating…</string>
+    <string name="section_login_by_mobile_button">Login</string>
+    <string name="section_login_by_mobile_number">Input your mobile number</string>
+    <string name="section_login_by_mobile_password">Input your password</string>
+    <string name="section_login_by_mobile_create_new_account"><a href="#">Create a new account</a></string>
+    <string name="section_login_by_mobile_forget_password"><a href="#">Forgert your password?</a></string>
+    <string name="section_recovery_confirm_account">Please confirm your account</string>
+    <string name="reset_mobile_password_title">Reset account password</string>
+    <string name="btn_finish">Finish</string>
+    <string name="section_recovery_by_mobile_number">Your mobile number:</string>
+    <string name="section_recovery_by_mobile_new_password">New password:</string>
+    <string name="section_recovery_by_mobile_confirm_password">Confirm password:</string>
+    <string name="section_recovery_by_mobile_authcode">Active code:</string>
+    <string name="acquire_authcode_again">Acquire again</string>
+    <string name="choose_recovery_title">Choose recovery method</string>
+    <string name="choose_recovery_secret_question">Secret questions</string>
+    <string name="choose_recovery_registered_email">Registered email</string>
+    <string name="secret_question_title">Fill in the secret question</string>
+    <string name="reset_password_title">Fill in the new password</string>
+    <string name="reset_password_by_email_title">Reset password</string>
+    <string name="recovery_by_email_note_01">Password reset email has been already sent to your register email.</string>
+    <string name="recovery_by_email_note_02">When you received the email, please reset your nubia account password following the constructions in the email.</string>
+    <string name="authcode_has_already_send">Active code has been sent to the number by the message</string>
+    <string name="recovery_by_mobile_acquire_authcode">Confirming username…</string>
+    <string name="recovery_by_mobile_new_password_hint">New password(between 6 and 32 characters)</string>
+    <string name="recovery_by_mobile_confirm_password_hint">Confirm password</string>
+    <string name="recovery_by_mobile_authcode_hint">Active code</string>
+    <string name="recovery_by_mobile_commit">Committing new password…</string>
+    <string name="recovery_by_mobile_password_error">Password requires characters between 6 and 32</string>
+    <string name="recovery_by_mobile_confirm_password_error">Confirm password failed</string>
+    <string name="recovery_by_mobile_authcode_error">Active code error</string>
+    <string name="recovery_confirm_mobile_error">Confirm mobile number failed</string>
+    <string name="recovery_confirm_email_error">confirm email failed</string>
+    <string name="login_response_error">network or server error</string>
+    <string name="safe_question_answer_error">Check safe question answer failed</string>
+    <string name="recovery_by_email_commit">Committing new password…</string>
+    <string name="safe_question_new_password_commit_error">Reset new password failed</string>
+    <string name="safe_question_new_password_commit_success">Modify new password successfully</string>
+    <string name="recovery_by_email_acquire_reset_email">Acquiring email reset…</string>
+    <string name="recovery_by_email_acquire_reset_email_error">Acquire email reset failed</string>
+    <string name="section_recovery_username">E-mail / Mobile</string>
+    <string name="section_recovery_password_error">Password error(between 6 and 32 characters)</string>
+    <string name="section_recovery_confirm_password_error">Confirm password failed</string>
+    <string name="section_register_by_email_username_exist">Username has already existed!</string>
+    <string name="section_register_by_email_email_exist">Email has already existed!</string>
+    <string name="section_register_by_mobile_number_exist_error">Mobile number has already existed!</string>
+    <string name="login_user_null_error">Please input username</string>
+    <string name="login_username_error">Username error(between 4 and 15 characters)</string>
+    <string name="login_email_error">Email format error or more than 40 characters</string>
+    <string name="login_mobile_error">Mobile is invalidate</string>
+    <string name="login_password_error">Password error</string>
+    <string name="login_password_null_error">Password should not be null</string>
+    <string name="recovery_confirm_account_error">Confirm account failed</string>
+    <string name="recovery_account_error">Please input the validate email or mobile</string>
+    <string name="recovery_confirm_error">Confirm account failed</string>
+    <string name="mobile_number_error">Mobile number error</string>
+    <string name="section_register_finish_title">Register complete</string>
+    <string name="cannot_connect_to_network_errror">"can't connect to internet!"</string>
+    <string name="thirdparty_login_finish">Login Finish</string>
+    <string name="thirdparty_login_tips">Login Successfully by %1$1s</string>
+    <string name="thirdparty_qq">QQ</string>
+    <string name="thirdparty_wb">Sina Weibo</string>
+    <string name="thirdparty_login_first">"Congratulations！
+Now you have a nubia account:
+Username is %1$1s
+Password is %2$s
+Please keep carefully."</string>
+    <string name="mobile_register_info">Every phone number can get security code no more than thrice every day!</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="unknow_error">Unknow error</string>
+</resources>

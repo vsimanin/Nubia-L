@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dayNames">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="fuXing">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="default_phrases">
+        <item>"What's up?"</item>
+        <item>Thx</item>
+        <item>"Let's meet."</item>
+        <item>Check this out!</item>
+        <item>Whacha doin?</item>
+        <item>What do you think?</item>
+        <item>"You've gotta be here."</item>
+        <item>"Let's hook-up"</item>
+        <item>On my way.</item>
+        <item>Yes</item>
+        <item>No</item>
+        <item>Later</item>
+        <item>"You're the best!"</item>
+        <item>Where are you?</item>
+        <item>Call me.</item>
+    </string-array>
+    <string-array name="pref_slideshow_open_mode_choices">
+        <item>Mobile newspapers</item>
+        <item>Slideshow</item>
+    </string-array>
+    <string-array name="pref_slideshow_open_mode_values">
+        <item>NEWSPAPER</item>
+        <item>SLIDESHOW</item>
+    </string-array>
+    <string-array name="additional_test_code">
+        <item>*#1208888999#</item>
+        <item>*#7678#</item>
+        <item>*#406#</item>
+        <item>*#776#</item>
+        <item>*#777#</item>
+        <item>*#88#</item>
+        <item>*#583#</item>
+        <item>*#8620#</item>
+        <item>*#632#</item>
+        <item>*#8601#</item>
+        <item>*#8602#</item>
+        <item>*#626#</item>
+    </string-array>
+    <string-array name="advanced_test_code">
+        <item>*#8615#</item>
+    </string-array>
+    <string-array name="backup_settings_code">
+        <item>*#923#</item>
+    </string-array>
+    <string-array name="factory_mode_test_code">
+        <item>*#8604#</item>
+        <item>*#8605#</item>
+        <item>*#8688#</item>
+        <item>*#8612#</item>
+        <item>*#405#</item>
+        <item>*#746#</item>
+        <item>*#642#</item>
+    </string-array>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Winking</item>
+        <item>Tongue sticking out</item>
+        <item>Surprised</item>
+        <item>Kissing</item>
+        <item>Yelling</item>
+        <item>Cool</item>
+        <item>Money mouth</item>
+        <item>Foot in mouth</item>
+        <item>Embarrassed</item>
+        <item>Angel</item>
+        <item>Undecided</item>
+        <item>Crying</item>
+        <item>Lips are sealed</item>
+        <item>Laughing</item>
+        <item>Confused</item>
+        <item>Heart</item>
+        <item>Mad</item>
+        <item>Smirk</item>
+        <item>Poker face</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>no subject</item>
+    </string-array>
+    <string-array name="theme_settings_code">
+        <item>*#94884#</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>Organization</item>
+        <item>Note</item>
+    </string-array>
+    <string-array name="sub_list">
+        <item>SIM1</item>
+        <item>SIM2</item>
+    </string-array>
+    <string-array name="shortcutcall_modify_option">
+        <item>@string/shortcut_call_settings_modify_option_remove</item>
+        <item>@string/shortcut_call_settings_modify_option_replace</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 second</item>
+        <item>2 seconds</item>
+        <item>3 seconds</item>
+        <item>4 seconds</item>
+        <item>5 seconds</item>
+        <item>6 seconds</item>
+        <item>7 seconds</item>
+        <item>8 seconds</item>
+        <item>9 seconds</item>
+        <item>10 seconds</item>
+        <item>Other</item>
+    </string-array>
+</resources>

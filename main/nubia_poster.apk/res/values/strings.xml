@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nubia Poster</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="share">Share</string>
+    <string name="back">Back</string>
+    <string name="wait_a_moment">Please wait a moment.</string>
+    <string name="wait_a_moment2">Producing a photo now..</string>
+    <string name="wait_a_moment3">Saving a photo now..</string>
+    <string name="open_picture">Opening a photo now..</string>
+    <string name="reset">Reset</string>
+    <string name="contentDescription">Photo description</string>
+    <string name="confirm_exit">Exit</string>
+    <string name="confirm_discard_picture">Are you sure you want to discard the photo?</string>
+    <string name="save_tips_ex">The picture has already been saved to this album.</string>
+    <string name="stroage_full_tip">Failed to save the picture. Storage may be full.</string>
+    <string name="poster_edit_words">Edit</string>
+    <string name="poster_layout_vertical">Vertical</string>
+    <string name="poster_layout_horizontal">Horizontal</string>
+    <string name="bold">Bold</string>
+    <string name="shadow">Shadow</string>
+    <string name="composing">Composing</string>
+    <string name="number_of_words_remainder">" %1$d/%2$d "</string>
+    <string name="file_error">File error</string>
+    <string name="load_image_error">File error. Can not open.</string>
+</resources>

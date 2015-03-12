@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="improve_slideshow_setting_sample">
+        <item>improve_slideshow_setting_sample_1</item>
+        <item>improve_slideshow_setting_sample_2</item>
+        <item>improve_slideshow_setting_sample_3</item>
+        <item>improve_slideshow_setting_sample_4</item>
+        <item>improve_slideshow_setting_sample_5</item>
+        <item>improve_slideshow_setting_sample_6</item>
+        <item>improve_slideshow_setting_sample_7</item>
+        <item>improve_slideshow_setting_sample_8</item>
+        <item>improve_slideshow_setting_sample_9</item>
+    </string-array>
+    <string-array name="ztouch_photo_select_warning">
+        <item>Only one photo could be selected.</item>
+        <item>2 photos have been selected.</item>
+        <item>3 photos have been selected.</item>
+        <item>4 photos have been selected.</item>
+    </string-array>
+    <string-array name="move_items">
+        <item>Cut</item>
+        <item>Copy</item>
+    </string-array>
+</resources>

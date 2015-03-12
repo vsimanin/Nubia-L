@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jigsaw</string>
+    <string name="app_name_nubia_poster">Nubia Poster</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="share">Share</string>
+    <string name="back">Back</string>
+    <string name="help">Help</string>
+    <string name="wait_a_moment">Please wait a moment.</string>
+    <string name="wait_a_moment2">Producing a photo now...</string>
+    <string name="wait_a_moment3">Saving a photo now...</string>
+    <string name="open_picture">Opening a photo now...</string>
+    <string name="reset">Reset</string>
+    <string name="contentDescription">Photo description</string>
+    <string name="confirm_discard_picture">Are you sure you want to discard the photo?</string>
+    <string name="picture_contrast">Contrast</string>
+    <string name="beauty_brush_size">Brush size</string>
+    <string name="waitforwork">Processing now...</string>
+    <string name="save_tips">The picture has been saved to</string>
+    <string name="save_tips_ex">The picture has been saved to the same album.</string>
+    <string name="save_info">Saving picture to %1$s…</string>
+    <string name="stroage_full_tip">Failed to save the picture. Storage may be full.</string>
+    <string name="spaceIsLow_tip">The storage is running out of space</string>
+    <string name="spaceIsLow_content">Storage is running out of space. Delete some images or other files.</string>
+    <string name="puzzle_template">Template</string>
+    <string name="puzzle_freedom">Free</string>
+    <string name="puzzle_join">Photo Montage</string>
+    <string name="pintu_frame_list">Frame list</string>
+    <string name="pintu_change_bg">Select background</string>
+    <string name="pintu_change_frame">Select frame</string>
+    <string name="gif_makefinish">Saved!</string>
+    <string name="change_frame">Changing layout</string>
+    <string name="change_style">Changing style</string>
+    <string name="save_toast">Saved to Pictures/PhotoEditor</string>
+</resources>

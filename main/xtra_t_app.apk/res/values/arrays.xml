@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="GS_PACKAGES">
+        <item>com.google.android.gms</item>
+        <item>com.google.android.location</item>
+    </string-array>
+</resources>

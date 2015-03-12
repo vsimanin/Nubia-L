@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exception Feekback</string>
+    <string name="exception_title">Exception description:</string>
+    <string name="exception_title_hint">Please tell us what happened</string>
+    <string name="exception_steps">Step:</string>
+    <string name="exception_steps_hint">Please tell us your step</string>
+    <string name="exception_info">Exception information:</string>
+    <string name="but_send">Send</string>
+    <string name="but_cancel">Cancel</string>
+    <string name="setting_wiless_btn">Settings</string>
+    <string name="setting_wiless_title">Setting network</string>
+    <string name="setting_wiless_message">Upload log file need network.Please turn on network at frist,log will be upload after network connected.</string>
+</resources>

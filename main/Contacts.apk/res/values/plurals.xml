@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d contacts with phone numbers</item>
+        <item quantity="one">1 contact with phone number</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d contacts</item>
+        <item quantity="one">1 contact</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d found</item>
+        <item quantity="one">1 found</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d found</item>
+        <item quantity="one">1 found</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">merged from %0$d sources</item>
+        <item quantity="one">not merged</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d groups</item>
+        <item quantity="one">1 group</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d people from %2$s</item>
+        <item quantity="one">%1$d person from %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d people</item>
+        <item quantity="one">%1$d person</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d Voicemails</item>
+        <item quantity="one">Voicemail</item>
+    </plurals>
+    <plurals name="selected_count">
+        <item quantity="other">(%s items selected)</item>
+        <item quantity="one">(1 item selected)</item>
+    </plurals>
+    <plurals name="confirm_delete_phrases">
+        <item quantity="other">%1$s phrases will be deleted.</item>
+        <item quantity="one">One phrase will be deleted.</item>
+    </plurals>
+    <plurals name="search_recipients_results_title">
+        <item quantity="other">%1$s threads for \"%2$s\"</item>
+        <item quantity="one">%1$s thread for \"%2$s\"</item>
+    </plurals>
+    <plurals name="search_content_results_title">
+        <item quantity="other">%1$s messages for \"%2$s\"</item>
+        <item quantity="one">%1$s message for \"%2$s\"</item>
+    </plurals>
+    <plurals name="confirm_delete_selected_messages">
+        <item quantity="other">The selected %1$s messages will be deleted.</item>
+        <item quantity="one">The selected message will be deleted.</item>
+    </plurals>
+    <plurals name="recipient_count_show">
+        <item quantity="other">" and other %1$s people"</item>
+    </plurals>
+    <plurals name="invalid_attachment_found">
+        <item quantity="other">Sorry, the attachments you choose are not supported.</item>
+        <item quantity="one">Sorry, the attachment you choose is not supported.</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s conversations will be deleted.</item>
+        <item quantity="one">One conversation will be deleted.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s secs</item>
+        <item quantity="one">%s sec</item>
+        <item quantity="few">%s secs</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s results for \"%2$s\"</item>
+        <item quantity="one">%1$s result for \"%2$s\"</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+%1$s other messages</item>
+        <item quantity="one">+%1$s other message</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s people</item>
+    </plurals>
+</resources>

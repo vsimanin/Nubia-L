@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="img_text_colors">
+        <item>@color/img_text_color1</item>
+        <item>@color/img_text_color2</item>
+        <item>@color/img_text_color3</item>
+        <item>@color/img_text_color4</item>
+        <item>@color/img_text_color5</item>
+        <item>@color/img_text_color6</item>
+        <item>@color/img_text_color7</item>
+        <item>@color/img_text_color8</item>
+        <item>@color/img_text_color9</item>
+        <item>@color/img_text_color10</item>
+        <item>@color/img_text_color11</item>
+        <item>@color/img_text_color12</item>
+        <item>@color/img_text_color13</item>
+        <item>@color/img_text_color14</item>
+        <item>@color/img_text_color15</item>
+        <item>@color/img_text_color16</item>
+        <item>@color/img_text_color17</item>
+        <item>@color/img_text_color18</item>
+        <item>@color/img_text_color19</item>
+        <item>@color/img_text_color20</item>
+        <item>@color/img_text_color21</item>
+        <item>@color/img_text_color22</item>
+        <item>@color/img_text_color23</item>
+        <item>@color/img_text_color24</item>
+        <item>@color/img_text_color25</item>
+        <item>@color/img_text_color26</item>
+    </array>
+</resources>

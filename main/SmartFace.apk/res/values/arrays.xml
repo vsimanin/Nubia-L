@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="entries_color_list_preference">
+        <item>Senior Black</item>
+        <item>Senior Red</item>
+        <item>Senior Green</item>
+    </string-array>
+    <string-array name="entryvalues_color_list_preference">
+        <item>Senior Black</item>
+        <item>Senior Red</item>
+        <item>Senior Green</item>
+    </string-array>
+</resources>

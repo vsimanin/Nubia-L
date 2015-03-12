@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="more_activity">
+        <item>@string/account_register_login</item>
+        <item>@string/scan_music</item>
+        <item>@string/search</item>
+        <item>@string/voice_recognize</item>
+        <item>@string/change_skin</item>
+        <item>@string/settings</item>
+        <item>@string/about_app</item>
+        <item>@string/quit</item>
+    </string-array>
+    <string-array name="about_items">
+        <item>@string/music_help</item>
+        <item>@string/version_detect</item>
+        <item>@string/user_feedback_str</item>
+    </string-array>
+    <string-array name="ark_playpage_more">
+        <item>@string/ark_playpage_more_share</item>
+        <item>@string/ark_playpage_more_download</item>
+        <item>@string/ark_playpage_more_set_tone</item>
+        <item>@string/ark_playpage_more_delete</item>
+        <item>@string/ark_playpage_more_audio_effect</item>
+        <item>@string/ark_playpage_more_music_info</item>
+        <item>@string/ark_playpage_more_quit</item>
+    </string-array>
+    <string-array name="ark_playpage_more_no_effect">
+        <item>@string/ark_playpage_more_share</item>
+        <item>@string/ark_playpage_more_download</item>
+        <item>@string/ark_playpage_more_set_tone</item>
+        <item>@string/ark_playpage_more_delete</item>
+        <item>@string/ark_playpage_more_music_info</item>
+        <item>@string/ark_playpage_more_quit</item>
+    </string-array>
+    <string-array name="ark_playpage_more_online">
+        <item>@string/ark_playpage_more_share</item>
+        <item>@string/ark_playpage_more_download</item>
+        <item>@string/ark_playpage_more_set_tone</item>
+        <item>@string/ark_playpage_more_audio_effect</item>
+        <item>@string/ark_playpage_more_music_info</item>
+        <item>@string/ark_playpage_more_quit</item>
+    </string-array>
+    <string-array name="ark_playpage_more_online_no_effect">
+        <item>@string/ark_playpage_more_share</item>
+        <item>@string/ark_playpage_more_download</item>
+        <item>@string/ark_playpage_more_set_tone</item>
+        <item>@string/ark_playpage_more_music_info</item>
+        <item>@string/ark_playpage_more_quit</item>
+    </string-array>
+    <string-array name="ark_playpage_more_inter">
+        <item>@string/ark_playpage_more_set_tone</item>
+        <item>@string/ark_playpage_more_delete</item>
+        <item>@string/ark_playpage_more_audio_effect</item>
+        <item>@string/ark_playpage_more_music_info</item>
+        <item>@string/ark_playpage_more_quit</item>
+    </string-array>
+    <string-array name="ark_playpage_more_inter_no_effect">
+        <item>@string/ark_playpage_more_set_tone</item>
+        <item>@string/ark_playpage_more_delete</item>
+        <item>@string/ark_playpage_more_music_info</item>
+        <item>@string/ark_playpage_more_quit</item>
+    </string-array>
+    <string-array name="content_str_array">
+        <item>Close</item>
+        <item>10 Minutes</item>
+        <item>30 Minutes</item>
+        <item>60 Minutes</item>
+        <item>90 Minutes</item>
+    </string-array>
+    <string-array name="download_quality_array">
+        <item>High Quality</item>
+        <item>Standard Quality</item>
+    </string-array>
+    <string-array name="listen_array">
+        <item>Standard Quality</item>
+        <item>High Quality</item>
+    </string-array>
+    <string-array name="artist_category">
+        <item>Mandarin Male Singers</item>
+        <item>Chinese Female Singers</item>
+        <item>Chinese Combinations</item>
+        <item>European and American Male Singers</item>
+        <item>European and American Female Singers</item>
+        <item>European and American Combinations</item>
+        <item>Japan and South Korea Male Singers</item>
+        <item>Japan and South Korea Female Singers</item>
+        <item>Japan and South Korea Combination</item>
+        <item>Other Singers</item>
+    </string-array>
+    <string-array name="playlist_operation">
+        <item>Open</item>
+        <item>Play</item>
+        <item>Delete</item>
+        <item>Rename</item>
+    </string-array>
+    <string-array name="playlist_song_operation">
+        <item>Remove from playlist</item>
+    </string-array>
+    <string-array name="song_operation">
+        <item>Add To</item>
+        <item>Delete</item>
+    </string-array>
+    <string-array name="folder_operation">
+        <item>Open</item>
+        <item>Play</item>
+        <item>Delete</item>
+    </string-array>
+    <string-array name="artist_typeitem_arrays">
+        <item>Chinese Male Singers</item>
+        <item>Chinese Female Singers</item>
+        <item>Chinese Portfolio</item>
+        <item>European and American Male Singers</item>
+        <item>European and American Female Singers</item>
+        <item>European and American Portfolio</item>
+        <item>HongKong and TaiWan Male Singers</item>
+        <item>HongKong and TaiWan Female Singers</item>
+        <item>HongKong and TaiWan Portfolio</item>
+        <item>Japan and SouthKorea Male Singers</item>
+        <item>Japan and SouthKorea Female Singers</item>
+        <item>Japan and SouthKorea Portfolio</item>
+    </string-array>
+    <string-array name="ark_playpage_more_radio">
+        <item>Quit</item>
+    </string-array>
+    <string-array name="top_type_list">
+        <item>Fresh Song List</item>
+        <item>Hot Song List</item>
+        <item>Folk Song List</item>
+        <item>Billboard Song List</item>
+        <item>Movie Songs List</item>
+        <item>Shook Song List</item>
+        <item>HITO Chinese Song List</item>
+        <item>Jazz Song List</item>
+        <item>KTV Hot Song List</item>
+        <item>Rock Song List</item>
+        <item>Soaring Chinese Song List</item>
+        <item>Soaring European and American Song List</item>
+    </string-array>
+    <string-array name="ark_download_quality">
+        <item>Standard</item>
+        <item>Better</item>
+    </string-array>
+</resources>

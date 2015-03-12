@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="date_format">EEE, MMMM d</string>
+    <string name="hello">Hello World!</string>
+    <string name="app_name">SmartFace</string>
+    <string name="smartface_setting_title">Smart Leather</string>
+    <string name="title_enable_smartface_preference">Smart Leather Switcher</string>
+    <string name="enable_smartface_summary">active this feature to use smart leather on the phone</string>
+    <string name="title_enable_smartface_window_preference">Smart Leather</string>
+    <string name="enable_smartface_window_summary">With a smart window and fast unlock feature</string>
+    <string name="title_dismiss_lockscreen_preference">Auto Unlock Screen</string>
+    <string name="dismiss_lockscreen_summary">Close the Screen lock and open the leather will unlock screen</string>
+    <string name="title_face_color_preference">Window Background</string>
+    <string name="dialog_title_color_choose_preference">Choose Background Color</string>
+    <string name="face_color_summary">Senior Black</string>
+    <string name="title_smartface_helper_preference">Help</string>
+    <string name="title_smartface_choice">Select Leather Type</string>
+    <string name="title_enable_smartface_ordinary_preference">Ordinary Leather</string>
+    <string name="enable_smartface_ordinary_summary">With fast unlock feature</string>
+    <string name="smartface_support_info">This setting only support nuiba Smart Phone.</string>
+    <string name="smartface_function_info_1">Smart Window can display date, time and use music and alarm.</string>
+    <string name="smartface_function_info_2">You can check the missed event in this screen.</string>
+    <string name="music_no_track_tips">No Playlists</string>
+</resources>

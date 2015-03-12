@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Make Gif</string>
+    <string name="filename">File name</string>
+    <string name="gif_making">Making GIF...</string>
+    <string name="gif_deleytime">Each frame</string>
+    <string name="gif_makefinish">Saved to %1$s folder</string>
+    <string name="please_input">Please enter</string>
+    <string name="confirm">Confirm</string>
+    <string name="Cancel">Cancel</string>
+    <string name="fileisexist">Duplicate file name. Please try again.</string>
+    <string name="filenameisnull">Empty file name. Please enter a file name.</string>
+    <string name="make_gif">Make GIF</string>
+    <string name="gif_unrewind">Unrewind</string>
+    <string name="gif_rewind">Rewind</string>
+    <string name="filename_invalid">Failed to name. Name contains invalid characters.</string>
+    <string name="filenotexist">The files to make gif do not exist.</string>
+</resources>

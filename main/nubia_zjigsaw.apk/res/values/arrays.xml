@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="BanshiTwo">
+        <item>puzzle/Banshi/002-001.meitumbpt</item>
+        <item>puzzle/Banshi/002-002.meitumbpt</item>
+        <item>puzzle/Banshi/002-003.meitumbpt</item>
+        <item>puzzle/Banshi/002-004.meitumbpt</item>
+    </string-array>
+    <string-array name="BanshiThree">
+        <item>puzzle/Banshi/003-001.meitumbpt</item>
+        <item>puzzle/Banshi/003-002.meitumbpt</item>
+        <item>puzzle/Banshi/003-003.meitumbpt</item>
+        <item>puzzle/Banshi/003-004.meitumbpt</item>
+        <item>puzzle/Banshi/003-005.meitumbpt</item>
+    </string-array>
+    <string-array name="BanshiFour">
+        <item>puzzle/Banshi/004-001.meitumbpt</item>
+        <item>puzzle/Banshi/004-002.meitumbpt</item>
+        <item>puzzle/Banshi/004-003.meitumbpt</item>
+        <item>puzzle/Banshi/004-004.meitumbpt</item>
+        <item>puzzle/Banshi/004-005.meitumbpt</item>
+    </string-array>
+    <string-array name="BanshiFive">
+        <item>puzzle/Banshi/005-001.meitumbpt</item>
+        <item>puzzle/Banshi/005-002.meitumbpt</item>
+        <item>puzzle/Banshi/005-003.meitumbpt</item>
+        <item>puzzle/Banshi/005-004.meitumbpt</item>
+        <item>puzzle/Banshi/005-005.meitumbpt</item>
+    </string-array>
+    <string-array name="BanshiSix">
+        <item>puzzle/Banshi/006-001.meitumbpt</item>
+        <item>puzzle/Banshi/006-002.meitumbpt</item>
+        <item>puzzle/Banshi/006-003.meitumbpt</item>
+        <item>puzzle/Banshi/006-004.meitumbpt</item>
+        <item>puzzle/Banshi/006-005.meitumbpt</item>
+    </string-array>
+    <string-array name="BanshiSeven">
+        <item>puzzle/Banshi/007-001.meitumbpt</item>
+        <item>puzzle/Banshi/007-002.meitumbpt</item>
+        <item>puzzle/Banshi/007-003.meitumbpt</item>
+        <item>puzzle/Banshi/007-004.meitumbpt</item>
+        <item>puzzle/Banshi/007-005.meitumbpt</item>
+    </string-array>
+    <string-array name="BanshiEight">
+        <item>puzzle/Banshi/008-001.meitumbpt</item>
+        <item>puzzle/Banshi/008-002.meitumbpt</item>
+        <item>puzzle/Banshi/008-003.meitumbpt</item>
+        <item>puzzle/Banshi/008-004.meitumbpt</item>
+        <item>puzzle/Banshi/008-005.meitumbpt</item>
+    </string-array>
+    <string-array name="BanshiNine">
+        <item>puzzle/Banshi/009-001.meitumbpt</item>
+        <item>puzzle/Banshi/009-002.meitumbpt</item>
+        <item>puzzle/Banshi/009-003.meitumbpt</item>
+        <item>puzzle/Banshi/009-004.meitumbpt</item>
+        <item>puzzle/Banshi/009-005.meitumbpt</item>
+    </string-array>
+    <string-array name="Frame">
+        <item>puzzle/Biankuang/001.ptbj</item>
+        <item>puzzle/Biankuang/002.ptbj</item>
+        <item>puzzle/Biankuang/003.ptbj</item>
+        <item>puzzle/Biankuang/004.ptbj</item>
+        <item>puzzle/Biankuang/005.ptbj</item>
+        <item>puzzle/Biankuang/006.ptbj</item>
+        <item>puzzle/Biankuang/007.ptbj</item>
+        <item>puzzle/Biankuang/008.ptbj</item>
+        <item>puzzle/Biankuang/009.ptbj</item>
+        <item>puzzle/Biankuang/010.ptbj</item>
+        <item>puzzle/Biankuang/010.ptbj</item>
+        <item>puzzle/Biankuang/011.ptbj</item>
+        <item>puzzle/Biankuang/003.ptbj</item>
+        <item>puzzle/Biankuang/002.ptbj</item>
+        <item>puzzle/Biankuang/001.ptbj</item>
+        <item>puzzle/Biankuang/001.ptbj</item>
+        <item>puzzle/Biankuang/010.ptbj</item>
+        <item>puzzle/Biankuang/004.ptbj</item>
+        <item>puzzle/Biankuang/009.ptbj</item>
+        <item>puzzle/Biankuang/009.ptbj</item>
+        <item>puzzle/Biankuang/011.ptbj</item>
+        <item>puzzle/Biankuang/007.ptbj</item>
+        <item>puzzle/Biankuang/008.ptbj</item>
+        <item>puzzle/Biankuang/009.ptbj</item>
+        <item>puzzle/Biankuang/004.ptbj</item>
+        <item>puzzle/Biankuang/005.ptbj</item>
+        <item>puzzle/Biankuang/006.ptbj</item>
+    </string-array>
+    <array name="Frame_Show">
+        <item>@drawable/format01</item>
+        <item>@drawable/format02</item>
+        <item>@drawable/format03</item>
+        <item>@drawable/format04</item>
+        <item>@drawable/format05</item>
+        <item>@drawable/format06</item>
+        <item>@drawable/format07</item>
+        <item>@drawable/format08</item>
+        <item>@drawable/format09</item>
+        <item>@drawable/format10</item>
+        <item>@drawable/format11</item>
+        <item>@drawable/format12</item>
+        <item>@drawable/format13</item>
+        <item>@drawable/format14</item>
+        <item>@drawable/format15</item>
+        <item>@drawable/format16</item>
+        <item>@drawable/format17</item>
+        <item>@drawable/format18</item>
+        <item>@drawable/format19</item>
+        <item>@drawable/format20</item>
+        <item>@drawable/format21</item>
+        <item>@drawable/format22</item>
+        <item>@drawable/format23</item>
+        <item>@drawable/format24</item>
+        <item>@drawable/format25</item>
+        <item>@drawable/format26</item>
+        <item>@drawable/format27</item>
+    </array>
+    <array name="BG_Show">
+        <item>@drawable/purebackground_0</item>
+        <item>@drawable/purebackground_1</item>
+        <item>@drawable/purebackground_2</item>
+        <item>@drawable/purebackground_3</item>
+        <item>@drawable/purebackground_4</item>
+        <item>@drawable/purebackground_5</item>
+        <item>@drawable/freedombackground_3</item>
+        <item>@drawable/freedombackground_4</item>
+        <item>@drawable/freedombackground_5</item>
+        <item>@drawable/freedombackground_6</item>
+        <item>@drawable/freedombackground_7</item>
+        <item>@drawable/freedombackground_8</item>
+        <item>@drawable/freedombackground_9</item>
+        <item>@drawable/freedombackground_10</item>
+        <item>@drawable/freedombackground_11</item>
+        <item>@drawable/freedombackground_12</item>
+        <item>@drawable/freedombackground_13</item>
+        <item>@drawable/freedombackground_14</item>
+        <item>@drawable/freedombackground_15</item>
+        <item>@drawable/freedombackground_16</item>
+        <item>@drawable/freedombackground_17</item>
+        <item>@drawable/freedombackground_18</item>
+        <item>@drawable/freedombackground_19</item>
+        <item>@drawable/freedombackground_20</item>
+    </array>
+    <string-array name="Texture">
+        <item>puzzle/Diwen/pat000.jpg</item>
+        <item>puzzle/Diwen/pat000.jpg</item>
+        <item>puzzle/Diwen/pat000.jpg</item>
+        <item>puzzle/Diwen/pat000.jpg</item>
+        <item>puzzle/Diwen/pat000.jpg</item>
+        <item>puzzle/Diwen/pat000.jpg</item>
+        <item>puzzle/Diwen/pat000.jpg</item>
+        <item>puzzle/Diwen/pat000.jpg</item>
+        <item>puzzle/Diwen/pat000.jpg</item>
+        <item>puzzle/Diwen/pat000.jpg</item>
+        <item>puzzle/Diwen/pat001.jpg</item>
+        <item>puzzle/Diwen/pat002.jpg</item>
+        <item>puzzle/Diwen/pat003.jpg</item>
+        <item>puzzle/Diwen/pat004.jpg</item>
+        <item>puzzle/Diwen/pat005.jpg</item>
+        <item>puzzle/Diwen/pat006.jpg</item>
+        <item>puzzle/Diwen/pat007.jpg</item>
+        <item>puzzle/Diwen/pat008.jpg</item>
+        <item>puzzle/Diwen/pat009.jpg</item>
+        <item>puzzle/Diwen/pat010.jpg</item>
+        <item>puzzle/Diwen/pat011.jpg</item>
+        <item>puzzle/Diwen/pat012.jpg</item>
+        <item>puzzle/Diwen/pat013.jpg</item>
+        <item>puzzle/Diwen/pat014.jpg</item>
+        <item>puzzle/Diwen/pat015.jpg</item>
+        <item>puzzle/Diwen/pat016.jpg</item>
+        <item>puzzle/Diwen/pat017.jpg</item>
+    </string-array>
+    <string-array name="freedomformat2">
+        <item>freedom/002-001.zypt</item>
+        <item>freedom/002-002.zypt</item>
+        <item>freedom/002-003.zypt</item>
+        <item>freedom/002-004.zypt</item>
+        <item>freedom/002-005.zypt</item>
+    </string-array>
+    <string-array name="freedomformat3">
+        <item>freedom/003-001.zypt</item>
+        <item>freedom/003-002.zypt</item>
+        <item>freedom/003-003.zypt</item>
+        <item>freedom/003-004.zypt</item>
+        <item>freedom/003-005.zypt</item>
+    </string-array>
+    <string-array name="freedomformat4">
+        <item>freedom/004-001.zypt</item>
+        <item>freedom/004-002.zypt</item>
+        <item>freedom/004-003.zypt</item>
+        <item>freedom/004-004.zypt</item>
+        <item>freedom/004-005.zypt</item>
+    </string-array>
+    <string-array name="freedomformat5">
+        <item>freedom/005-001.zypt</item>
+        <item>freedom/005-002.zypt</item>
+        <item>freedom/005-003.zypt</item>
+        <item>freedom/005-004.zypt</item>
+        <item>freedom/005-005.zypt</item>
+    </string-array>
+    <string-array name="freedomformat6">
+        <item>freedom/006-001.zypt</item>
+        <item>freedom/006-002.zypt</item>
+        <item>freedom/006-003.zypt</item>
+        <item>freedom/006-004.zypt</item>
+        <item>freedom/006-005.zypt</item>
+    </string-array>
+    <string-array name="freedomformat7">
+        <item>freedom/007-001.zypt</item>
+        <item>freedom/007-002.zypt</item>
+        <item>freedom/007-003.zypt</item>
+        <item>freedom/007-004.zypt</item>
+        <item>freedom/007-005.zypt</item>
+    </string-array>
+    <string-array name="freedomformat8">
+        <item>freedom/008-001.zypt</item>
+        <item>freedom/008-002.zypt</item>
+        <item>freedom/008-003.zypt</item>
+        <item>freedom/008-004.zypt</item>
+        <item>freedom/008-005.zypt</item>
+    </string-array>
+    <string-array name="freedomformat9">
+        <item>freedom/009-001.zypt</item>
+        <item>freedom/009-002.zypt</item>
+        <item>freedom/009-003.zypt</item>
+        <item>freedom/009-004.zypt</item>
+        <item>freedom/009-005.zypt</item>
+    </string-array>
+    <string-array name="freedombackground">
+        <item>freedom/s1.jpg</item>
+        <item>freedom/s2.jpg</item>
+        <item>freedom/s3.jpg</item>
+        <item>freedom/s4.jpg</item>
+        <item>freedom/s5.jpg</item>
+        <item>freedom/s6.jpg</item>
+        <item>freedom/1.jpg</item>
+        <item>freedom/2.jpg</item>
+        <item>freedom/3.jpg</item>
+        <item>freedom/4.jpg</item>
+        <item>freedom/5.jpg</item>
+        <item>freedom/6.jpg</item>
+        <item>freedom/7.jpg</item>
+        <item>freedom/8.jpg</item>
+        <item>freedom/9.jpg</item>
+        <item>freedom/10.jpg</item>
+        <item>freedom/11.jpg</item>
+        <item>freedom/12.jpg</item>
+        <item>freedom/13.jpg</item>
+        <item>freedom/14.jpg</item>
+        <item>freedom/15.jpg</item>
+        <item>freedom/16.jpg</item>
+        <item>freedom/17.jpg</item>
+        <item>freedom/18.jpg</item>
+    </string-array>
+</resources>
