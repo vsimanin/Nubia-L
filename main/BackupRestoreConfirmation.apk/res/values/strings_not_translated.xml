@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="backup_enc_password_required">Since your device is encrypted, you are required to encrypt your backup. Please enter a password below:</string>
+</resources>

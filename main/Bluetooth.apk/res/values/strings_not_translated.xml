@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="bluetooth_in_airplane_mode">In Airplane mode</string>
+     <string name="incoming_line1">From</string>
+     <string name="incoming_line2">Filename</string>
+     <string name="incoming_line3">Size</string>
+     <string name="map_datasource_mms_name">MMS</string>
+     <string name="map_datasource_sms_name">SMS</string>
+     <string name="profile_a2dp">A2DP</string>
+     <string name="profile_ftp">FTP</string>
+     <string name="profile_gatt">GATT</string>
+     <string name="profile_hdp">HDP</string>
+     <string name="profile_hid">HID Host</string>
+     <string name="profile_hs_hfp">HS/HFP</string>
+     <string name="profile_mse">MAP</string>
+     <string name="profile_pan">PAN</string>
+     <string name="profile_sap">SAP</string>
+     <string name="upload_fail_waiting">Ongoing send file preparation, automatic retransmission later</string>
+</resources>
