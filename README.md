@@ -1,4 +1,4 @@
 # Nubia-L
-ZTE Android L Translate RU
+Android L Translate
 
 В процессе перевода переименовываем папки values на values-ru.
