@@ -1,9 +1,6 @@
 <string name="inter_rom_internal_version">Rom Version:</string>
 <string name="inter_audio_version">Audio parameter version:</string>
 <string name="inter_camera_version">Camera version:</string>
-<string name="adb_titl2e">Adb Port
-	gkjhkj</string>
-<string name="tp_ic_ver">TP_IC_VERSION:</string>
 <string name="prox_calibrate_not_support">This ic does not support calibration!</string>
 <string name="naked_prox_calibration_needed">Naked Prox-sensor Calibration needed!</string>
 <string name="quicktest_nfc_additional">NFC Additional Test</string>

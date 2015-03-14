@@ -9,6 +9,8 @@
     <string name="inter_app_gpio">Приложение GPIO:</string>
     <string name="inter_unknown">Неизвестный</string>
     <string name="port_title">Заводской порт</string>
+    <string name="adb_title">Порт ADB</string>
+    <string name="tp_ic_ver">TP_IC_VERSION:</string>
     <string name="screen_calibration">Калибровка экрана, подождите</string>
     <string name="screen_calib_finished">Калибровка завершена</string>
     <string name="screen_calib_fail">Калибровка не удалась</string>
