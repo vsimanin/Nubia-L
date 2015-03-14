@@ -1,0 +1,9 @@
+<!--- Эти строки удалены из русского перевода, т.к. не были найдены в оригинальном англоязычном переводе -->
+<string name="nubia_service_name">Поддержка Nubia</string>
+<string name="nubia_service_number">0000000000</string>
+<string name="nubia_service_number_label">Горячая линия</string>
+<string name="nubia_service_im">Служба заботы о клиентах Nubia</string>
+<string name="nubia_service_im_label">Микро сообщение</string>
+<string name="nubia_service_email">service@nubia.cn</string>
+<string name="nubia_service_email_label">Email</string>
+<string name="nubia_service_website">www.4pda.ru</string>

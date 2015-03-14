@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="menu_advanced_hide">Hide SD card</string>
+     <string name="menu_advanced_show">Show SD card</string>
+     <string name="menu_file_size_hide">Hide file size</string>
+     <string name="menu_file_size_show">Show file size</string>
+     <string name="menu_select">Select \"^1\"</string>
+</resources>

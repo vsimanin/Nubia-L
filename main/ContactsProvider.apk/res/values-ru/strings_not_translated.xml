@@ -1,0 +1,12 @@
+<string name="contact_service_name_zte">ZTE Customer Service</string>
+<string name="contact_service_name_nubia">nubia Customer Service</string>
+<string name="contact_service_number_label_zte">hotline</string>
+<string name="contact_service_number_label_nubia">hotline</string>
+<string name="contact_service_number_zte">4008308218</string>
+<string name="contact_service_number_nubia">4007006600</string>
+<string name="contact_service_website_zte">www.nubia.cn</string>
+<string name="contact_service_website_nubia">www.nubia.cn</string>
+<string name="contact_service_email_zte">service@zte.com.cn</string>
+<string name="contact_service_email_nubia">service@nubia.cn</string>
+<string name="contact_service_email_label_zte">email</string>
+<string name="contact_service_email_label_nubia">email</string>
