@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="entries_list_version">
-        <item>Business address: zhuti.nubia.cn</item>
-        <item>Nonbusiness address: theme.server.ztemt.com.cn</item>
+        <item>Бизнес адрес: zhuti.nubia.cn</item>
+        <item>Общий адрес: theme.server.ztemt.com.cn</item>
     </string-array>
     <string-array name="entryvalues_list_version">
         <item>1</item>
