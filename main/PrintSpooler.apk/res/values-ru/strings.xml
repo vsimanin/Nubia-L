@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Спулер печати</string>
+    <string name="print_button">Печать</string>
+    <string name="label_destination">Принтер</string>
+    <string name="label_copies">Копии</string>
+    <string name="label_paper_size">Формат</string>
+    <string name="label_color">Печать</string>
+    <string name="label_orientation">Ориентация</string>
+    <string name="label_pages">СТРАНИЦЫ (%1$s)</string>
+    <string name="pages_range_example">напр., 1–5, 8, 11–13</string>
+    <string name="print_preview">Предварительный просмотр</string>
+    <string name="install_for_print_preview">Установить средство просмотра PDF</string>
+    <string name="printing_app_crashed">Сбой приложения печати</string>
+    <string name="generating_print_job">Создание задания печати…</string>
+    <string name="save_as_pdf">Сохранить как PDF</string>
+    <string name="all_printers">Все принтеры</string>
+    <string name="print_dialog">Диалоговое окно печати</string>
+    <string name="search">Поиск</string>
+    <string name="all_printers_label">Все принтеры</string>
+    <string name="add_print_service_label">Добавить службу печати</string>
+    <string name="print_search_box_shown_utterance">Окно поиска показано</string>
+    <string name="print_search_box_hidden_utterance">Окно поиска скрыто</string>
+    <string name="print_add_printer">Добавить принтер</string>
+    <string name="print_select_printer">Выбрать принтер</string>
+    <string name="print_forget_printer">Удалить принтер</string>
+    <string name="choose_print_service">Выберите службу печати</string>
+    <string name="print_searching_for_printers">Поиск принтеров…</string>
+    <string name="print_no_printers">Ничего не найдено</string>
+    <string name="printing_notification_title_template">Печать задания \"%1$s\"…</string>
+    <string name="cancelling_notification_title_template">Отмена задания %1$s…</string>
+    <string name="failed_notification_title_template">Ошибка задания \"%1$s\"</string>
+    <string name="blocked_notification_title_template">Задание \"%1$s\" заблокировано</string>
+    <string name="cancel">Отмена</string>
+    <string name="restart">Повторить</string>
+    <string name="no_connection_to_printer">Нет связи с принтером</string>
+    <string name="reason_unknown">неизвестно</string>
+    <string name="printer_unavailable">%1$s – недоступен</string>
+    <string name="print_error_default_message">Не удалось отправить документ на печать.</string>
+    <string name="permdesc_accessAllPrintJobs">Позволяет владельцу получить доступ к очереди задачи принтера созданных другими приложениями. Не используется обычными приложениями.</string>
+    <string name="permdesc_startPrintServiceConfigActivity">Позволяет владельцу настроить службу печати. Не используется обычными приложениями.</string>
+    <string name="permlab_accessAllPrintJobs">Доступ ко всем заданиям принтера</string>
+    <string name="permlab_startPrintServiceConfigActivity">Настройка службы печати</string>
+</resources>

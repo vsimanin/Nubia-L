@@ -1,0 +1,4 @@
+<string name="uninstall_application_text_user">Do you want to uninstall this app for the user %1$s?</string>
+<string name="uninstall_blocked_profile_owner">"This app is needed for your %1$s profile and can't be uninstalled."</string>
+<string name="uninstall_blocked_device_owner">"This app is required by your device administrator and can't be uninstalled."</string>
+<string name="app_install_location_title">Preferred install location</string>
