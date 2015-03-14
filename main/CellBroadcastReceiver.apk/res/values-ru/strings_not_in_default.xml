@@ -1,0 +1,4 @@
+<!--- Эти строки удалены из русского перевода, т.к. не были найдены в оригинальном англоязычном переводе -->
+<string name="category_india_settings_title">Настройки для Индии</string>
+<string name="enable_channel_60_alerts_summary">Канал 60 используется в Индии для получения информации от оператора связи</string>
+<string name="enable_channel_60_alerts_title">Показать трансляции 60-го канала</string>
