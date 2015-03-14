@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<timezones>
+    <timezone offset="-18000000">Америка/Нью-Йорк</timezone>
+    <timezone offset="-21600000">Америка/Чикаго</timezone>
+    <timezone offset="-25200000">Америка/Денвер</timezone>
+    <timezone offset="-28800000">Америка/Лос-Анджелес</timezone>
+</timezones>
