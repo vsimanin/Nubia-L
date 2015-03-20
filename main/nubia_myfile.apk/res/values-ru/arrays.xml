@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="installed_operation">
+        <item>Открыть</item>
+        <item>Деинсталлировать</item>
+        <item>Установить</item>
+    </string-array>
+    <string-array name="pic_set_as">
+        <item>Фото контакта</item>
+        <item>Обои</item>
+    </string-array>
+    <string-array name="open_type_selection">
+        <item>Текст</item>
+        <item>Аудио</item>
+        <item>Видео</item>
+        <item>Изображение</item>
+        <item>Всё</item>
+    </string-array>
+</resources>
