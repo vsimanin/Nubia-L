@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="trim_items">
-        <item>Overwrite</item>
-        <item>Save as a new file</item>
+        <item>Перезаписать</item>
+        <item>Сохранить как новый файл</item>
     </string-array>
 </resources>
