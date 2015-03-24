@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="record_quality_array">
+        <item>Высокое 320kbps</item>
+        <item>Стандартное 128kbps</item>
+        <item>Экономия места 64kbps</item>
+    </string-array>
+    <string-array name="select_save_stroage">
+        <item>Память телефона</item>
+        <item>SD-карта</item>
+    </string-array>
+    <string-array name="store_path_Phone">
+        <item>Память телефона</item>
+    </string-array>
+    <string-array name="more_array">
+        <item>Передать</item>
+        <item>Установить как мелодию</item>
+    </string-array>
+    <string-array name="set_ringtone_array">
+        <item>Входящего вызова</item>
+        <item>Будильника</item>
+    </string-array>
+    <string-array name="double_sim_card_array">
+        <item>SIM-карта 1</item>
+        <item>SIM-карта 2</item>
+    </string-array>
+    <string-array name="add_picture_array">
+        <item>Сделать фото</item>
+        <item>Выбрать из галереи</item>
+    </string-array>
+    <string-array name="look_picture_array">
+        <item>Посмотреть</item>
+        <item>Удалить</item>
+        <item>Сделать новое фото</item>
+        <item>Выбрать из галереи</item>
+    </string-array>
+    <string-array name="save_format_array">
+        <item>Склеить и сохранить</item>
+        <item>Сохранить по отдельности</item>
+    </string-array>
+    <string-array name="recorder_list_sort">
+        <item>По времени создания</item>
+        <item>По ярлыку</item>
+        <item>По длительности</item>
+    </string-array>
+</resources>
