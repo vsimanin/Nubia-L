@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">FM Радио</string>
-    <string name="tx_app_name">FM Tx Новый</string>
+    <string name="tx_app_name">FM передатчик</string>
     <string name="menu_add_to_preset">Добавить предварительные настройки</string>
     <string name="menu_settings">Настройки</string>
     <string name="menu_record_start">Начать запись</string>
     <string name="menu_record_stop">Остановить запись</string>
     <string name="menu_all_channels">Все каналы</string>
     <string name="app_label_all_channels">Все каналы</string>
-    <string name="button_ok">Готово</string>
+    <string name="button_ok">OK</string>
     <string name="button_cancel">Отмена</string>
     <string name="button_delete">Удалить</string>
     <string name="error_sdcard_access">Нет доступа к SD-карте</string>
@@ -16,9 +16,9 @@
     <string name="menu_sleep">Спящий режим</string>
     <string name="menu_sleep_cancel">Отменить Спящий режим</string>
     <string name="menu_wired_headset">Проводная гарнитура</string>
-    <string name="menu_speaker_on">Доступный динамик</string>
+    <string name="menu_speaker_on">Динамик</string>
     <string name="menu_display_tags">Показать Теги</string>
-    <string name="menu_speaker_off">Недоступный динамик</string>
+    <string name="menu_speaker_off">Гарнитура</string>
     <string name="menu_scan_start">Сканировать</string>
     <string name="menu_scan_stop">Остановить поиск</string>
     <string name="menu_stats">FM РЧ статистика</string>
@@ -30,7 +30,7 @@
     <string name="msg_searching">Поиск станций для создания списка</string>
     <string name="msg_searching_title">Автовыбор предустановок</string>
     <string name="msg_weak_searching">Поиск частот для передачи</string>
-    <string name="msg_noantenna">Пожалуйста, вставьте наушники, чтобы использовать FM Радио</string>
+    <string name="msg_noantenna">Подключите наушники для использования FM-радио</string>
     <string name="msg_headsetpluggedin">Отсоедините наушники для использования FM Tx</string>
     <string name="msg_callactive">FM Tx не поддерживается, если активен голосовой звонок</string>
     <string name="dialog_sleep_title">Выбрать время автоматического отключения спящего режима</string>
@@ -108,7 +108,7 @@
     <string name="menu_reorder_list">Упорядочить список</string>
     <string name="menu_scan_for_preset">Просмотреть предустановки</string>
     <string name="menu_delete_list">Удалить список</string>
-    <string name="alert_dialog_ok">Готово</string>
+    <string name="alert_dialog_ok">Ok</string>
     <string name="alert_dialog_cancel">Отмена</string>
     <string name="search_dialog_title">Сканирование станций</string>
     <string name="search_category_key">поиск_категория_тип</string>
@@ -129,7 +129,7 @@
     <string name="fm_command_timeout_title">Превышение времени ожидания</string>
     <string name="fm_tune_timeout_msg">Нет ответа FM станции. Если проблема повторяется, пожалуйста, отключите и включите FM заново.</string>
     <string name="fm_command_failed_title">Неудачная FM операция</string>
-    <string name="fm_cmd_failed_msg">Неудачная FM операция. Если проблема повторяется, пожалуйста, отключите и включите FM заново.</string>
+    <string name="fm_cmd_failed_msg">Неудачная FM операция. Если проблема повторяется, отключите и включите FM еще раз.</string>
     <string name="fm_cmd_failed_msg_hdmi">Неудачная FM операция. Параллельная FM и HDMI работа не поддерживается.</string>
     <string name="fm_cmd_failed_call_on">Неудачная FM операция. FM аудио не допускается во время звонка</string>
     <string name="default_preset_list_name">FM Список</string>
@@ -196,7 +196,7 @@
     <string name="plug_headset_warning">Ошибка: просмотр неудачный</string>
     <string name="error_failed_seek">Пожалуйста, вставьте проводные наушники</string>
     <string name="fm_factory_title">Ошибка: неудачный просмотр</string>
-    <string name="fm_factory_tip">Пожалуйста, установите канал</string>
+    <string name="fm_factory_tip">Установите канал</string>
     <string name="fm_factory_ch_one">89.8MГц</string>
     <string name="fm_factory_ch_two">97.1MГц</string>
     <string name="fm_factory_ch_thr">104.3MГц</string>
@@ -208,7 +208,7 @@
     <string name="msg_stationstored">Канал был добавлен в список</string>
     <string name="status_bar_title">FM радио</string>
     <string name="sleeptimer_expired">Время автоматического отключения радио</string>
-    <string name="fm_starting_service">FM радио запускается, пожалуйста, подождите</string>
+    <string name="fm_starting_service">FM-радио запускается, подождите</string>
     <string name="fm_station_remove">Удаление станции</string>
     <string name="fm_remove_msg">Удалить текущую станцию из списка станций?</string>
     <string name="has_choose_station">Выбрать станцию %s</string>
@@ -216,7 +216,7 @@
     <string name="channel_edit">Изменить</string>
     <string name="dlg_addedit_station_name">Имя</string>
     <string name="dlg_addedit_station_frequency">Частота</string>
-    <string name="edit_channel">Изменить станция</string>
+    <string name="edit_channel">Изменить станцию</string>
     <string name="invalid_input">Последний неверный ввод, допустимое значение 0 или 5.</string>
     <string name="invalid_frequency">Недопустимая частота для текущего положения. Канал не из данного региона.</string>
 </resources>
