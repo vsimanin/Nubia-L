@@ -12,13 +12,13 @@
         <item>improve_slideshow_setting_sample_9</item>
     </string-array>
     <string-array name="ztouch_photo_select_warning">
-        <item>Only one photo could be selected.</item>
-        <item>2 photos have been selected.</item>
-        <item>3 photos have been selected.</item>
-        <item>4 photos have been selected.</item>
+        <item>Может быть выбрано только одно фото!</item>
+        <item>Было выбрано 2 фото!</item>
+        <item>Было выбрано 3 фото!</item>
+        <item>Было выбрано 4 фото!</item>
     </string-array>
     <string-array name="move_items">
-        <item>Cut</item>
-        <item>Copy</item>
+        <item>Переместить</item>
+        <item>Копировать</item>
     </string-array>
 </resources>
