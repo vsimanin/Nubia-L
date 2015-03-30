@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="prompt">Запрос на соединение</string>
-    <string name="warning">%s хочет установить VPN соединение, что позволит ему контролировать сетевой трафик. Соглашайтесь только если доверяете источнику. &lt;br /> &lt;br /> &lt;img src=vpn_icon /> отображается в верхней части экрана, когда VPN соединение активно.</string>
-    <string name="legacy_title">VPN соединение установлено</string>
-    <string name="configure">Настройки</string>
-    <string name="disconnect">Разъединить</string>
-    <string name="session">Сессия:</string>
-    <string name="duration">Продолжительность:</string>
-    <string name="data_transmitted">Отправлено:</string>
-    <string name="data_received">Получено:</string>
-    <string name="data_value_format">%1$s байт / %2$s пакетов</string>
+    <string name="prompt">Р—Р°РїСЂРѕСЃ РЅР° СЃРѕРµРґРёРЅРµРЅРёРµ</string>
+    <string name="warning">%s С…РѕС‡РµС‚ СѓСЃС‚Р°РЅРѕРІРёС‚СЊ VPN СЃРѕРµРґРёРЅРµРЅРёРµ, С‡С‚Рѕ РїРѕР·РІРѕР»РёС‚ РµРјСѓ РєРѕРЅС‚СЂРѕР»РёСЂРѕРІР°С‚СЊ СЃРµС‚РµРІРѕР№ С‚СЂР°С„РёРє. РЎРѕРіР»Р°С€Р°Р№С‚РµСЃСЊ С‚РѕР»СЊРєРѕ РµСЃР»Рё РґРѕРІРµСЂСЏРµС‚Рµ РёСЃС‚РѕС‡РЅРёРєСѓ. &lt;br /> &lt;br /> &lt;img src=vpn_icon /> РѕС‚РѕР±СЂР°Р¶Р°РµС‚СЃСЏ РІ РІРµСЂС…РЅРµР№ С‡Р°СЃС‚Рё СЌРєСЂР°РЅР°, РєРѕРіРґР° VPN СЃРѕРµРґРёРЅРµРЅРёРµ Р°РєС‚РёРІРЅРѕ.</string>
+    <string name="legacy_title">VPN СЃРѕРµРґРёРЅРµРЅРёРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅРѕ</string>
+    <string name="configure">РќР°СЃС‚СЂРѕР№РєРё</string>
+    <string name="disconnect">Р Р°Р·СЉРµРґРёРЅРёС‚СЊ</string>
+    <string name="session">РЎРµСЃСЃРёСЏ:</string>
+    <string name="duration">РџСЂРѕРґРѕР»Р¶РёС‚РµР»СЊРЅРѕСЃС‚СЊ:</string>
+    <string name="data_transmitted">РћС‚РїСЂР°РІР»РµРЅРѕ:</string>
+    <string name="data_received">РџРѕР»СѓС‡РµРЅРѕ:</string>
+    <string name="data_value_format">%1$s Р±Р°Р№С‚ / %2$s РїР°РєРµС‚РѕРІ</string>
 </resources>
