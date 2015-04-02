@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="system_backup_types">
+        <item>Контакты</item>
+        <item>sms</item>
+        <item>mms</item>
+        <item>Вызовы</item>
+        <item>Закладки</item>
+    </string-array>
+    <string-array name="system_backup_types_default_value">
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="backup_types">
+        <item>Контакты</item>
+        <item>sms</item>
+        <item>mms</item>
+        <item>Вызовы</item>
+        <item>Закладки</item>
+        <item>Приложения</item>
+    </string-array>
+    <string-array name="backup_types_default_value">
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="restore_types">
+        <item>Контакты</item>
+        <item>sms</item>
+        <item>mms</item>
+        <item>Вызовы</item>
+        <item>Закладки</item>
+    </string-array>
+    <string-array name="restore_types_default_value">
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="backuptool_types">
+        <item>Память телефона</item>
+        <item>Облачное хранилище</item>
+    </string-array>
+    <string-array name="backuptool_types_default_value">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="sa_remind_regularly">
+        <item>Не напоминать</item>
+        <item>Напоминать каждую неделю</item>
+        <item>Напоминать каждый месяц</item>
+    </string-array>
+    <string-array name="sa_remind_regularly_values">
+        <item>Никогда</item>
+        <item>Каждую неделю</item>
+        <item>Каждый месяц</item>
+    </string-array>
+    <string-array name="timer_backup_repeat_type">
+        <item>@string/timer_backup_repeat_type_day</item>
+        <item>@string/timer_backup_repeat_type_week</item>
+        <item>@string/timer_backup_repeat_type_month</item>
+    </string-array>
+    <string-array name="cycle_day_of_week">
+        <item>@string/cycle_day_of_week_sunday</item>
+        <item>@string/cycle_day_of_week_monday</item>
+        <item>@string/cycle_day_of_week_tuesday</item>
+        <item>@string/cycle_day_of_week_wednesday</item>
+        <item>@string/cycle_day_of_week_thursday</item>
+        <item>@string/cycle_day_of_week_friday</item>
+        <item>@string/cycle_day_of_week_saturday</item>
+    </string-array>
+    <integer-array name="data_backup_item_int_type">
+        <item>200</item>
+        <item>201</item>
+        <item>202</item>
+        <item>203</item>
+    </integer-array>
+    <string-array name="data_backup_item_type">
+        <item>Изображение</item>
+        <item>Музыка</item>
+        <item>Видео</item>
+        <item>Документ</item>
+    </string-array>
+    <string-array name="data_backup_item_icon">
+        <item>backup_item_image</item>
+        <item>backup_item_music</item>
+        <item>backup_item_video</item>
+        <item>backup_item_document</item>
+    </string-array>
+    <string-array name="data_backup_item_small_icon">
+        <item>backup_item_image</item>
+        <item>backup_item_music</item>
+        <item>backup_item_video</item>
+        <item>backup_item_document</item>
+    </string-array>
+    <string-array name="data_backup_item_title">
+        <item>backup_item_image_title</item>
+        <item>backup_item_music_title</item>
+        <item>backup_item_video_title</item>
+        <item>backup_item_document_title</item>
+    </string-array>
+    <integer-array name="app_backup_item_int_type">
+        <item>300</item>
+    </integer-array>
+    <string-array name="app_backup_item_type">
+        <item>Приложения</item>
+    </string-array>
+    <string-array name="app_backup_item_gray_icon">
+        <item>backup_item_apps_gray</item>
+    </string-array>
+    <string-array name="app_backup_item_gray_small_icon">
+        <item>backup_item_apps_gray_small</item>
+    </string-array>
+    <string-array name="app_backup_item_red_icon">
+        <item>backup_item_apps_red</item>
+    </string-array>
+    <string-array name="app_backup_item_title">
+        <item>backup_item_apps_title</item>
+    </string-array>
+    <integer-array name="primary_item_int_type">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </integer-array>
+    <string-array name="primary_item_type">
+        <item>Контакты</item>
+        <item>SMS</item>
+        <item>Вызовы</item>
+        <item>Закладки</item>
+        <item>Будильник</item>
+        <item>Календарь</item>
+        <item>Заметки</item>
+        <item>Лаунчер</item>
+        <item>Wi-Fi</item>
+        <item>Настройки</item>
+    </string-array>
+    <string-array name="pri_pkg_names">
+        <item>com.android.contacts</item>
+        <item>com.android.contacts</item>
+        <item>com.android.contacts</item>
+        <item>com.android.browser</item>
+        <item>cn.nubia.deskclock.preset</item>
+        <item>cn.nubia.calendar.preset</item>
+        <item>cn.nubia.notepad.preset</item>
+        <item>cn.nubia.launcher</item>
+        <item>cn.nubia.databackup</item>
+        <item>com.android.settings</item>
+    </string-array>
+    <string-array name="pri_cls_names">
+        <item>com.android.contacts.mainlist.PeopleActivity</item>
+        <item>com.android.contacts.MmsConversationActivity</item>
+        <item>com.android.contacts.DialerActivity</item>
+        <item>com.android.browser.BrowserActivity</item>
+        <item>cn.nubia.deskclock.DeskClock</item>
+        <item>cn.nubia.calendar.AllInOneActivity</item>
+        <item>cn.nubia.notepad.NoteListActivity</item>
+        <item>com.android.launcher3.Launcher</item>
+        <item>com.android.settings.Settings</item>
+        <item>com.android.settings.Settings</item>
+    </string-array>
+    <string-array name="primary_item_gray_icon">
+        <item>backup_item_contacts_gray</item>
+        <item>backup_item_sms_gray</item>
+        <item>backup_item_calls_gray</item>
+        <item>backup_item_bookmarks_gray</item>
+        <item>backup_item_alarm_gray</item>
+        <item>backup_item_calendar_gray</item>
+        <item>backup_item_note_gray</item>
+        <item>backup_item_launcher_gray</item>
+        <item>backup_item_wifi_gray</item>
+        <item>backup_item_settings_gray</item>
+    </string-array>
+    <string-array name="primary_item_red_icon">
+        <item>backup_item_contacts_red</item>
+        <item>backup_item_sms_red</item>
+        <item>backup_item_calls_red</item>
+        <item>backup_item_bookmarks_red</item>
+        <item>backup_item_alarm_red</item>
+        <item>backup_item_calendar_red</item>
+        <item>backup_item_note_red</item>
+        <item>backup_item_launcher_red</item>
+        <item>backup_item_wifi_red</item>
+        <item>backup_item_settings_red</item>
+    </string-array>
+    <string-array name="primary_item_gray_small_icon">
+        <item>backup_item_contacts_gray_small</item>
+        <item>backup_item_sms_gray_small</item>
+        <item>backup_item_calls_gray_small</item>
+        <item>backup_item_bookmarks_gray_small</item>
+        <item>backup_item_alarm_gray_small</item>
+        <item>backup_item_calendar_gray_small</item>
+        <item>backup_item_note_gray_small</item>
+        <item>backup_item_launcher_gray_small</item>
+        <item>backup_item_wifi_gray_small</item>
+        <item>backup_item_settings_gray_small</item>
+    </string-array>
+    <string-array name="primary_item_title">
+        <item>backup_item_contacts_title</item>
+        <item>backup_item_sms_title</item>
+        <item>backup_item_calls_title</item>
+        <item>backup_item_bookmarks_title</item>
+        <item>backup_item_alarm_title</item>
+        <item>backup_item_calendar_title</item>
+        <item>backup_item_note_title</item>
+        <item>backup_item_launcher_title</item>
+        <item>backup_item_wifi_title</item>
+        <item>backup_item_settings_title</item>
+    </string-array>
+    <string-array name="app_backup_type">
+        <item>Бэкап приложений</item>
+        <item>Бэкап данных приложений</item>
+    </string-array>
+    <string-array name="backup_item_group_type">
+        <item>Установленные приложения и данные</item>
+        <item>Зарезервированные данные удаленных приложений</item>
+    </string-array>
+    <string-array name="app_restore_type">
+        <item>Восстановить приложение</item>
+        <item>Восстановить данные приложения</item>
+    </string-array>
+    <string-array name="schedule_backup_content_types">
+        <item>Пресональная информация</item>
+        <item>Системная информация</item>
+    </string-array>
+    <string-array name="schedule_reminder_types">
+        <item>Не напоминать</item>
+        <item>Через 5 минут</item>
+        <item>Через 10 минут</item>
+        <item>Через 15 минут</item>
+        <item>Через 20 минут</item>
+        <item>Через 25 минут</item>
+        <item>Через 30 минут</item>
+        <item>Через 55 минут</item>
+        <item>Через час</item>
+    </string-array>
+    <string-array name="personal_info_backup_item_type_cnt_unit">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="system_info_backup_item_type_cnt_unit">
+        <item></item>
+    </string-array>
+    <string-array name="devices_name">
+        <item>@string/device_phone_storage</item>
+        <item>@string/device_sd_card</item>
+    </string-array>
+    <string-array name="pri_type_cnt_unit">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>
